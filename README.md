@@ -1,6 +1,6 @@
 ### Hi, I'm Yağmur
 
-Second-year Software Engineering student at OSTİM Technical University. Focused on clean code, data structures, and database systems.
+I'm a second-year Software Engineering student at OSTİM Technical University. I focus on clean code, data structures, and database systems.
 
 ---
 
